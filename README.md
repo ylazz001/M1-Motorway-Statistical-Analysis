@@ -47,4 +47,4 @@ www.linkedin.com/in/yuri-lazzeretti-b63a22220
 
 ## License
 
-This project is licensed under the MT License - see the LICENSE.md file for details
+This project is licensed under the GNU License - see the LICENSE.md file for details
