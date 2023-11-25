@@ -1,10 +1,10 @@
 # ML and Wine Quality Prediction
 
-The purpose of this project is to accurately predict whine quality using several ML algorithms (SVM, RF, DT), and compare the results
+The purpose of this project is to provide a statistical analysys of vehicle speeds on the M1 Motorway in England, UK
 
 ## Description
 
-This project represents an intersection of traditional winemaking and modern machine-learning technology. It aims to replace the subjective judgments typically associated with wine quality assessment, traditionally performed by expert tasters, with a more objective, data-driven approach. The heart of this study involves analyzing the physicochemical attributes of the renowned Portuguese "Vinho Verde" wines, using data sourced from Cortez et al. (2009). I focus on three advanced machine learning algorithms: Support Vector Machines (SVM), Random Forest (RF), and Decision Trees (DT). These were selected for their proven effectiveness in managing complex data and suitability for diverse tasks like regression and classification.
+This report aims to provide a complete investigation and analysis of vehicle speeds on the M1 Motorway in England, UK. The report focuses on drawing reasonable conclusions on the overall traffic patterns on the motorway to facilitate delivery lorries that travel the length of the M1. The M1 motorway connects London to Leeds and is 193 miles long with 53 different junctions. The M1 is also one of the UK’s busiest motorways. This report provides details on sampling strategies used, data collected, and any statistical analysis derived from said data. 
 
 ## Getting Started
 
@@ -25,12 +25,6 @@ R Version:
 Make sure to have a recent version of R (at least version 4.0.0 or later). 
 Required R Libraries:
 
-Several R packages are essential for running the machine learning models in this project. You can install them using R commands. Key packages include:
-caret (for ML algorithms)
-randomForest (for Random Forest algorithm)
-e1071 (for SVM)
-rpart or party (for Decision Trees)
-
 Additional packages for data manipulation and visualization like dplyr, ggplot2, tidyr. 
 
 ### Installing
@@ -38,6 +32,10 @@ Additional packages for data manipulation and visualization like dplyr, ggplot2,
 Download RStudio: https://posit.co/download/rstudio-desktop/
 
 Download R: https://cran.r-project.org/.
+
+##Data
+
+Self-collected over the course of 30 days 
 
 ## Authors
 
