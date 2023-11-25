@@ -33,7 +33,7 @@ Download RStudio: https://posit.co/download/rstudio-desktop/
 
 Download R: https://cran.r-project.org/.
 
-##Data
+## Data
 
 Self-collected over the course of 30 days 
 
