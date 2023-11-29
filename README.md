@@ -37,6 +37,13 @@ Download R: https://cran.r-project.org/.
 
 Self-collected over the course of 30 days 
 
+## Sample Output
+![Alt text](https://github.com/ylazz001/Project2-M1-SA/blob/main/SS1.png)
+
+![Alt text](https://github.com/ylazz001/Project2-M1-SA/blob/main/SS2.png)
+
+![Alt text](https://github.com/ylazz001/Project2-M1-SA/blob/main/SS3.png)
+
 ## Authors
 
 Yuri Lazzeretti
