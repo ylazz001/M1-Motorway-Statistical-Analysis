@@ -1,4 +1,4 @@
-# ML and Wine Quality Prediction
+# M1 Motorway Statistical Analysis
 
 The purpose of this project is to provide a statistical analysys of vehicle speeds on the M1 Motorway in England, UK
 
